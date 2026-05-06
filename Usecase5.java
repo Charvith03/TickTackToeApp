@@ -1,4 +1,4 @@
-public class TicTacToeUC5 {
+public class Usecase5 {
 
     public static boolean isValidMove(char[][] board, int row, int col) {
 
